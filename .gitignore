@@ -12,3 +12,4 @@ extensions/*
 !extensions/index.php
 
 assets/*
+!assets/index.php
