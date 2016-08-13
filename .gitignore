@@ -1,0 +1,14 @@
+config.php
+pages/*
+!pages/index.php
+
+templates/*
+!templates/index.php
+
+header/*
+!header/index.php
+
+extensions/*
+!extensions/index.php
+
+assets/*
